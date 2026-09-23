@@ -25,6 +25,17 @@ I am a **Principal Software Architect and Systems Engineer** with extensive expe
 
 ---
 
+## 🇸🇦 نبذة باللغة العربية
+
+أنا **شرف (@Brosfeer)**، مهندس ومعمار برمجيات متقدم (Principal Software & Systems Architect) ومؤسس استوديو التطوير **SayaSky Studio**.
+
+تتركز خبراتي في هندسة تطبيقات الهواتف المحمولة فائقة الأداء (Flutter و React Native)، الأنظمة المدمجة وحلول الذكاء الاصطناعي على الأجهزة الطرفية (On-Device AI)، وتطوير بوتات التليجرام وأنظمة الرقابة السحابية المؤتمتة. نلتزم دائماً بأعلى معايير الانضباط البرمجي:
+- **صفر انهيارات (Zero-Crash Architecture)** وثبات تشغيلي يفوق 99.98%.
+- **سرعة استجابة فائقة** بزمن معالجة يقل عن 15 ميلي ثانية.
+- **واجهات وتجارب استخدام سينمائية** تخضع لأرقى معايير التناغم اللوني والطباعة العربية الأصيلة (RTL).
+
+---
+
 ## 🏛️ Engineering Pillars
 
 ```mermaid
@@ -50,17 +61,6 @@ graph LR
 | **حسابي (Hisabi)** | Bilingual Edge-AI Fintech | **React Native**, PyTorch ExecuTorch OCR Viewfinder, Encrypted SQLite | 🔒 Sub-15ms on-device receipt scanning with zero cloud egress |
 | **PulseGuard 2.0** | Real-Time Server Telemetry WebApp | **Telegram Mini App (TMA)**, HMAC-SHA256 Auth, SQLite Ring Buffer | ⚡ Ultra-lightweight host telemetry daemon (<0.2% CPU overhead) |
 | **Telegram AI Issue Fleet** | ChatOps QA & GitHub Automation | **Python 3.12**, Python-Telegram-Bot, GitHub CLI (`gh`), Media Group Debouncing | 🤖 Instant screenshot QA triage and native GitHub Sub-Issue ingestion |
-
----
-
-## 📌 Pinned Repositories & Academic Showcases
-
-| Repository | Tech Stack | Architectural Focus |
-|---|---|---|
-| **[telegram-ai-issue-bot-template](https://github.com/Brosfeer/telegram-ai-issue-bot-template)** | Python 3.12, PTB v20+, GitHub CLI, SQLite WAL | Production Clean Architecture template with album debouncing, persistent keyboards, and sub-issues. |
-| **[PCR (Parent Communication Register)](https://github.com/Brosfeer/PCR)** | Android SDK 34, Java 8, ViewBinding, Saripaar, SQLite | Academic attendance management system with dual-tier RBAC and one-touch parental cellular call automation. |
-| **[SoccerVerse_Competition](https://github.com/Brosfeer/SoccerVerse_Competition)** | HTML5, SCSS, Bootstrap 4, Owl Carousel, AOS | Multi-page football tournament portal built for the Aptech Web Competition with live countdown timers. |
-| **[Java_Console_based_Calculator](https://github.com/Brosfeer/Java_Console_based_Calculator)** | Java 8+, Apache Ant, NetBeans, OOP Inheritance | 25-function scientific & number-theory computing engine with mathematical predicates (GCD, LCM, Prime, Armstrong). |
 
 ---
 
@@ -101,17 +101,6 @@ graph LR
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brosfeer&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🇸🇦 نبذة باللغة العربية
-
-أنا **شرف (@Brosfeer)**، مهندس ومعمار برمجيات متقدم (Principal Software & Systems Architect) ومؤسس استوديو التطوير **SayaSky Studio**.
-
-تتركز خبراتي في هندسة تطبيقات الهواتف المحمولة فائقة الأداء (Flutter و React Native)، الأنظمة المدمجة وحلول الذكاء الاصطناعي على الأجهزة الطرفية (On-Device AI)، وتطوير بوتات التليجرام وأنظمة الرقابة السحابية المؤتمتة. نلتزم دائماً بأعلى معايير الانضباط البرمجي:
-- **صفر انهيارات (Zero-Crash Architecture)** وثبات تشغيلي يفوق 99.98%.
-- **سرعة استجابة فائقة** بزمن معالجة يقل عن 15 ميلي ثانية.
-- **واجهات وتجارب استخدام سينمائية** تخضع لأرقى معايير التناغم اللوني والطباعة العربية الأصيلة (RTL).
 
 ---
 
