@@ -45,7 +45,7 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 
 ## نبذة تعريفية وتنفيذية
 
-أنا **شرف (@Brosfeer)**، مهندس برمجيات ومعماري نُظم أول (Principal Software & Systems Architect) ومؤسس استوديو **SayaSky Studio**.
+أنا **شرف (@Brosfeer)**، مهندس ومعماري البرمجيات والنظم (Principal Software & Systems Architect) ومؤسس استوديو **SayaSky Studio**.
 
 أقود تطوير وهندسة تطبيقات الجوال والأنظمة الرقمية عالية الأداء، بالاعتماد على المعمارية النظيفة (Clean Architecture)، تقنيات الذكاء الاصطناعي المدمج، وهندسة نمو المنتجات. تمتد خبرتي العملية عبر تطوير تطبيقات Flutter و React Native / Expo، نماذج الذكاء الاصطناعي على الأجهزة الطرفية (On-Device Edge AI)، والبنية التحتية السحابية وأتمتة العمليات (DevOps / CI/CD).
 
