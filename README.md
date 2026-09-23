@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hello, I'm Sharaf (@Brosfeer)
-### 🏛️ Principal Mobile & Systems Software Architect | Founder of SayaSky Studio
+# Sharaf (@Brosfeer)
+### Principal Mobile & Systems Software Architect | Founder of SayaSky Studio
 
 [![Google Play Developer](https://img.shields.io/badge/Google%20Play-SayaSky%20Studio-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)
-[![Production Repos](https://img.shields.io/badge/Production%20Ecosystem-35%2B%20Repositories-007ACC?logo=github&logoColor=white)](#-flagship-production-systems)
-[![Architecture](https://img.shields.io/badge/Engineering-Clean%20Architecture%20%7C%20Zero--Crash-purple?logo=databricks&logoColor=white)](#-engineering-pillars)
-[![Platform](https://img.shields.io/badge/Platforms-Mobile%20%7C%20Linux%20%7C%20Edge%20AI-FF6F00?logo=android&logoColor=white)](#-tech-arsenal)
+[![Production Repos](https://img.shields.io/badge/Production%20Ecosystem-35%2B%20Repositories-007ACC?logo=github&logoColor=white)](#flagship-production-systems)
+[![Architecture](https://img.shields.io/badge/Engineering-Clean%20Architecture%20%7C%20Zero--Crash-purple?logo=databricks&logoColor=white)](#engineering-pillars)
+[![Platform](https://img.shields.io/badge/Platforms-Mobile%20%7C%20Linux%20%7C%20Edge%20AI-FF6F00?logo=android&logoColor=white)](#tech-arsenal--production-stack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**English** | [العربية](#-نبذة-تعريفية-وتنفيذية)
+**English** | [العربية](#نبذة-تعريفية-وتنفيذية)
 
 ---
 
@@ -19,55 +19,55 @@
 
 ---
 
-## 👨‍💻 Executive Summary
+## Executive Summary
 
-I am **Sharaf (@Brosfeer)**, **Principal Software & Systems Architect** and founder of **SayaSky Studio**.
+I am **Sharaf (@Brosfeer)**, Principal Software & Systems Architect and founder of **SayaSky Studio**.
 
-I lead end-to-end mobile engineering and high-performance digital systems, combining rigorous **Clean Architecture** with growth engineering and product intelligence. My production pedigree spans **Flutter** and **React Native / Expo** ecosystems, **on-device edge AI**, and autonomous cloud infrastructure.
+I engineer high-performance mobile applications and digital systems, pairing **Clean Architecture** with on-device intelligence and business growth telemetry. My production stack spans **Flutter** and **React Native / Expo**, on-device edge AI, and autonomous cloud infrastructure.
 
-I specialize in enterprise post-launch lifecycle, mobile application security, and business growth engineering (**App Lifecycle, Security & Growth Stack**):
-- 🛡️ **Enterprise Security & Anti-Abuse**: Cryptographic client attestation via **Firebase App Check** (Play Integrity / DeviceCheck) to block unauthorized API traffic and scrapers, fine-grained **Rate Limiting**, and strict least-privilege permission audits for zero-friction store approvals.
-- ⚡ **Offline-First Resilience & Business Continuity**: Fault-tolerant state pipelines combining **TanStack Query** with high-speed local **SQLite WAL** persistence—guaranteeing zero-downtime continuity and zero data loss during backend outages or unstable connectivity.
-- 📊 **Behavioral Analytics & Smart Recommendations**: Granular event telemetry (most-browsed catalogs, cart hesitation, user affinity) to power recommendation feeds and elevate conversion rates and Average Order Value (**AOV**).
-- 📈 **Attribution & Deep Linking Funnels**: Advanced telemetry pipelines (**Google Analytics / GA4**, **AppsFlyer ROAS attribution**) paired with smart routing (**Universal Links & Deferred Deep Linking**) to maximize marketing campaign conversion and user retention.
-- 🚀 **Zero-Downtime Over-The-Air Delivery (OTA)**: Instant cloud deployments via **Expo EAS OTA** updates to ship urgent features and patch critical issues in minutes without waiting for App Store / Google Play review cycles.
+**Production Engineering & Growth Stack:**
+- **Security & Anti-Abuse**: Cryptographic client attestation via Firebase App Check, API rate limiting, and least-privilege permission auditing for rapid store compliance.
+- **Offline-First Resilience**: Fault-tolerant caching via TanStack Query and local SQLite WAL persistence for zero-downtime continuity during backend disruptions.
+- **Behavioral Analytics & Recommendations**: Telemetry instrumentation (catalog browsing, cart hesitation, user affinity) powering personalization engines and AOV conversion.
+- **Attribution & Deep Linking**: Telemetry integration (Google Analytics GA4, AppsFlyer ROAS) paired with Universal & Deferred Deep Linking for seamless campaign acquisition.
+- **Zero-Downtime Delivery**: Instant over-the-air updates via Expo EAS OTA to deploy urgent features and emergency triage without store review latency.
 
-What differentiates my work as a software architect and technical partner (**Value & ROI Driven**):
-- 💼 **Marketing Budget Protection & Funnel Engineering (ROAS)**: Bridging engineering with growth metrics to ensure paid acquisition traffic lands directly on target screens, eliminating drop-offs and maximizing revenue.
-- ⚡ **Commercial Agility & Zero Downtime (EAS OTA)**: Emergency hotfixes and seasonal promotional releases deployed over-the-air in minutes, protecting brand reputation and campaign revenue.
-- 💰 **Cloud Cost Reduction via Edge AI**: Running inference and data processing locally on-device (<15ms), drastically slashing recurring cloud compute bills while guaranteeing absolute user privacy.
-- 🎯 **Full Product Ownership & Zero Technical Debt**: Transforming ambiguous requirements into scalable, million-user architectures that require zero babysitting and eliminate costly future rewrites.
-
----
-
-## 🇸🇦 نبذة تعريفية وتنفيذية
-
-أنا **شرف (@Brosfeer)**، مهندس ومعماري برمجيات ونُظم رئيسي (**Principal Software & Systems Architect**) ومؤسس استوديو **SayaSky Studio**.
-
-أقود هندسة وتطوير تطبيقات الجوال المتقدمة والأنظمة الرقمية الشاملة، جامعاً بين متانة الهندسة البرمجية الصارمة (**Clean Architecture**) ودقة محركات النمو والتحليلات التسويقية. تمتد خبراتي الإنتاجية عبر منظومات **Flutter** و **React Native / Expo**، حلول الذكاء الاصطناعي الطرفي المدمج (**On-Device Edge AI**)، والبنى التحتية السحابية المؤتمتة.
-
-أمتلك خبرة عملية راسخة في إدارة البنية التحتية التشغيلية، أمان التطبيقات، وهندسة دورة حياة المنتج بعد الإطلاق (**App Lifecycle, Security & Growth Stack**):
-- 🛡️ **الأمان والتحصين ضد الاحتيال (Security & Anti-Abuse)**: تفعيل التوثيق الرقمي المتقدم عبر **Firebase App Check** ورموز التحقق المشفرة لمنع استنزاف واجهات الـ API وحظر البوتات، ضبط معدلات الطلب (**Rate Limiting**)، وتجريد التطبيق من الصلاحيات غير الضرورية لضمان أمان المستخدم وسرعة قبول المتاجر.
-- ⚡ **استمرارية الأعمال ومقاومة انقطاع الخوادم (Offline-First Resilience)**: بناء آليات استرداد ذكية تدمج بين **TanStack Query** والتخزين المحلي فائق السرعة **SQLite WAL**؛ لضمان استمرار التطبيق في العمل بسلاسة مطلقة حتى في حال تعطل الخوادم أو انقطاع الاتصال دون فقدان بيانات المستخدم.
-- 📊 **تحليلات السلوك ومحركات التوصية (Behavioral Analytics & Recommendations)**: تتبع ذكي دقيق لسلوك المستخدمين، المنتجات الأكثر تصفحاً، ومسارات الشراء لربطها بمحركات التوصية وتحسين معدلات التحويل (**Conversion Rate**) ومتوسط قيمة الطلب (**AOV**).
-- 📈 **الإسناد التسويقي والروابط الذكية (Attribution & Deep Linking)**: إعداد وربط منصات التحليل الرائدة (**Google Analytics / GA4**) ومحركات إسناد الحملات الإعلانية ومعدل العائد على الإنفاق الإعلاني (**AppsFlyer ROAS**)، وهندسة الروابط الشاملة الذكية (**Universal Links & Deferred Deep Links**).
-- 🚀 **التحديثات الهوائية الفورية (OTA Delivery)**: اعتماد وتطبيق استراتيجيات النشر والتحديث السحابي عبر الهواء (**Expo EAS Over-The-Air Updates**) لدفع الميزات العاجلة ومعالجة الثغرات لحظياً دون انتظار فترات مراجعة المتاجر.
-
-ما يميز عملي كمعماري برمجيات وشريك تقني (Value & ROI Driven):
-- 💼 **حماية الميزانيات التسويقية وتعظيم العائد (ROAS & Funnel Engineering)**: لا أكتفي بكتابة الكود، بل أهندس منظومة الروابط العميقة والتحليلات لضمان تحويل زيارات الحملات الإعلانية إلى مستخدمين دائمين ومبيعات فعلية دون هدر تسويقي.
-- ⚡ **مرونة تجارية وإنقاذ لحظي (Zero-Downtime EAS OTA)**: إمكانية إطلاق الميزات العاجلة ومعالجة أي ثغرة تشغيلية فوراً عبر الهواء في دقائق، دون انتظار فترات مراجعة المتاجر، مما يحمي سمعة علامتك التجارية وعوائد حملاتك الموسمية.
-- 💰 **خفض تكاليف التشغيل السحابية (Edge AI Cost Optimization)**: توظيف الذكاء الاصطناعي والمعالجة الفورية محلياً على هاتف المستخدم (<15ms)، مما يُقلص تكاليف الخوادم السحابية بنسب هائلة ويمنح المستخدمين خصوصية وأماناً مطلقين.
-- 🎯 **استقلالية تامة وملكية شاملة للمنتج (Full Product Ownership)**: استلام متطلبات العمل الغامضة وتحويلها إلى منتجات حية قابلة للتوسع المليوني دون الحاجة لإشراف دقيق أو إعادة بناء مستقبلية (Zero Technical Debt).
+**Architectural Value & Delivery:**
+- **ROAS & Acquisition Protection**: Aligning deep linking with marketing attribution so paid traffic routes directly to target purchase screens without drop-offs.
+- **Commercial Agility**: Zero-downtime over-the-air releases deployed in minutes, preserving revenue and operational continuity during peak campaigns.
+- **Edge AI Cost Efficiency**: Sub-15ms on-device inference eliminating recurring cloud compute bills while ensuring complete user privacy.
+- **Full Ownership & Scalability**: Taking ambiguous product requirements to production-grade, million-user systems without technical debt.
 
 ---
 
-## 🏛️ Engineering Pillars
+## نبذة تعريفية وتنفيذية
+
+أنا **شرف (@Brosfeer)**، مهندس ومعماري برمجيات ونُظم رئيسي ومؤسس استوديو **SayaSky Studio**.
+
+أقود هندسة وتطوير تطبيقات الجوال عالية الأداء والأنظمة الرقمية الشاملة، جامعاً بين البنية البرمجية الصارمة (Clean Architecture) والذكاء الاصطناعي المدمج وتحليلات النمو. تمتد خبراتي الإنتاجية عبر منظومات Flutter و React Native / Expo، نماذج الذكاء الاصطناعي الطرفية (On-Device Edge AI)، والأنظمة السحابية المؤتمتة.
+
+**البنية التحتية، الأمان، وهندسة دورة حياة التطبيقات:**
+- **الأمان ومكافحة الاحتيال**: توثيق رقمي مشفر عبر Firebase App Check لمنع استنزاف الـ APIs وحظر البوتات، ضبط معدلات الطلب (Rate Limiting)، وتجريد التطبيقات من الصلاحيات غير الضرورية.
+- **استمرارية الأعمال ومقاومة انقطاع الخوادم**: استرداد لحظي يدمج TanStack Query مع التخزين المحلي السريع SQLite WAL؛ لضمان استمرار عمل التطبيق دون فقدان بيانات عند انقطاع الخوادم.
+- **تحليلات السلوك ومحركات التوصية**: تتبع دقيق لسلوك المستخدمين وتصفح المنتجات لربطها بمحركات التوصية ورفع معدلات التحويل ومتوسط قيمة السلة (AOV).
+- **الإسناد التسويقي والروابط الذكية**: ضبط منصات Google Analytics و AppsFlyer ROAS وهندسة الروابط الشاملة (Universal & Deferred Deep Links).
+- **التحديثات الهوائية الفورية**: دفع الميزات العاجلة والتحديثات الطارئة عبر Expo EAS OTA دون انتظار دورات مراجعة المتاجر.
+
+**القيمة الهندسية والتنفيذية:**
+- **حماية الميزانيات التسويقية وتعظيم العائد (ROAS)**: هندسة مسارات المستخدم والروابط العميقة لضمان تحويل زيارات الإعلانات إلى مبيعات مباشرة دون هدر.
+- **المرونة والجاهزية التجارية**: دفع التحسينات ومعالجة الثغرات لحظياً عبر الهواء لحماية سمعة العلامة التجارية وعوائد الحملات.
+- **خفض التكاليف التشغيلية بالذكاء الاصطناعي**: معالجة البيانات ونماذج الذكاء الاصطناعي محلياً على هاتف المستخدم (<15ms) لتقليص فواتير الخوادم وضمان الخصوصية.
+- **ملكية شاملة وانعدام الديون التقنية**: تحويل المتطلبات إلى منتجات قابلة للتوسع المليوني دون الحاجة لإشراف مستمر أو إعادة بناء مستقبلية.
+
+---
+
+## Engineering Pillars
 
 ```mermaid
 graph LR
-    Pillar1["🛡️ Zero-Crash Reliability<br/>(>99.98% Crash-Free)"] --- Pillar2["⚡ Sub-15ms Latency<br/>(On-Device Edge AI)"]
-    Pillar2 --- Pillar3["🎨 Liquid Glass UX<br/>(60-120 FPS Fluidity)"]
-    Pillar3 --- Pillar4["🤖 Autonomous Tooling<br/>(CI/CD & Telegram Bots)"]
+    Pillar1["Zero-Crash Reliability<br/>(>99.98% Crash-Free)"] --- Pillar2["Sub-15ms Latency<br/>(On-Device Edge AI)"]
+    Pillar2 --- Pillar3["Liquid Glass UX<br/>(60-120 FPS Fluidity)"]
+    Pillar3 --- Pillar4["Autonomous Tooling<br/>(CI/CD & Telegram Bots)"]
 ```
 
 1. **Zero-Crash Reliability & Defensive Core**: Strict offline-first caching, atomic SQLite WAL transactions, and resilient exception barriers yielding >99.98% session stability.
@@ -77,19 +77,19 @@ graph LR
 
 ---
 
-## 🚀 Flagship Production Systems
+## Flagship Production Systems
 
 | System | Role & Domain | Key Architecture & Tech | Verified Impact |
 |---|---|---|---|
-| **[Kiddy Zone Town](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)** | Flagship Educational Gaming Suite | **Flutter**, Flame, Naskh Bézier Spline Math, SoLoud Audio, GitHub Actions CI | 🌟 Live on Google Play Store with multi-hub educational modules |
-| **راخص (Rakhes)** | Mobile Price Intelligence Engine | **React Native / Expo**, Liquid Glass Design System, Sub-15ms Parser | 📈 Real-time Saudi multi-store comparison (Amazon SA vs. Noon) |
-| **حسابي (Hisabi)** | Bilingual Edge-AI Fintech | **React Native**, PyTorch ExecuTorch OCR Viewfinder, Encrypted SQLite | 🔒 Sub-15ms on-device receipt scanning with zero cloud egress |
-| **PulseGuard 2.0** | Real-Time Server Telemetry WebApp | **Telegram Mini App (TMA)**, HMAC-SHA256 Auth, SQLite Ring Buffer | ⚡ Ultra-lightweight host telemetry daemon (<0.2% CPU overhead) |
-| **Telegram AI Issue Fleet** | ChatOps QA & GitHub Automation | **Python 3.12**, Python-Telegram-Bot, GitHub CLI (`gh`), Media Group Debouncing | 🤖 Instant screenshot QA triage and native GitHub Sub-Issue ingestion |
+| **[Kiddy Zone Town](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)** | Flagship Educational Gaming Suite | **Flutter**, Flame, Naskh Bézier Spline Math, SoLoud Audio, GitHub Actions CI | Live on Google Play Store with multi-hub educational modules |
+| **راخص (Rakhes)** | Mobile Price Intelligence Engine | **React Native / Expo**, Liquid Glass Design System, Sub-15ms Parser | Real-time Saudi multi-store comparison (Amazon SA vs. Noon) |
+| **حسابي (Hisabi)** | Bilingual Edge-AI Fintech | **React Native**, PyTorch ExecuTorch OCR Viewfinder, Encrypted SQLite | Sub-15ms on-device receipt scanning with zero cloud egress |
+| **PulseGuard 2.0** | Real-Time Server Telemetry WebApp | **Telegram Mini App (TMA)**, HMAC-SHA256 Auth, SQLite Ring Buffer | Ultra-lightweight host telemetry daemon (<0.2% CPU overhead) |
+| **Telegram AI Issue Fleet** | ChatOps QA & GitHub Automation | **Python 3.12**, Python-Telegram-Bot, GitHub CLI (`gh`), Media Group Debouncing | Instant screenshot QA triage and native GitHub Sub-Issue ingestion |
 
 ---
 
-## 🛠️ Tech Arsenal & Mastered Technologies
+## Tech Arsenal & Production Stack
 
 <div align="center">
 
@@ -127,7 +127,7 @@ graph LR
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+## GitHub Analytics & Contributions
 
 <div align="center">
 
@@ -138,7 +138,7 @@ graph LR
 
 ---
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 
 - **GitHub Profile**: [@Brosfeer](https://github.com/Brosfeer)
 - **Official Google Play Studio**: [SayaSky Studio](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)
