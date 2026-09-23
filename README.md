@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sharaf (@Brosfeer)
+# Sharafaldain (@Brosfeer)
 ### Principal Mobile & Systems Software Architect | Founder of SayaSky Studio
 
 [![Google Play Developer](https://img.shields.io/badge/Google%20Play-SayaSky%20Studio-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)
@@ -21,7 +21,7 @@
 
 ## Executive Summary
 
-I am **Sharaf (@Brosfeer)**, Principal Software & Systems Architect and founder of **SayaSky Studio**.
+I am **Sharafaldain (@Brosfeer)**, Principal Software & Systems Architect and founder of **SayaSky Studio**.
 
 I engineer high-performance mobile applications and digital systems, pairing **Clean Architecture** with on-device intelligence and business growth telemetry. My production stack spans **Flutter** and **React Native / Expo**, on-device edge AI, and autonomous cloud infrastructure.
 
@@ -45,7 +45,7 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 
 ## نبذة تعريفية وتنفيذية
 
-أنا **شرف (@Brosfeer)**، مهندس ومعماري البرمجيات والنظم (Principal Software & Systems Architect) ومؤسس استوديو **SayaSky Studio**.
+أنا **شرف الدين (@Brosfeer)**، مهندس ومعماري البرمجيات والنظم (Principal Software & Systems Architect) ومؤسس استوديو **SayaSky Studio**.
 
 أقود تطوير وهندسة تطبيقات الجوال والأنظمة الرقمية عالية الأداء، بالاعتماد على المعمارية النظيفة (Clean Architecture)، تقنيات الذكاء الاصطناعي المدمج، وهندسة نمو المنتجات. تمتد خبرتي العملية عبر تطوير تطبيقات Flutter و React Native / Expo، نماذج الذكاء الاصطناعي على الأجهزة الطرفية (On-Device Edge AI)، والبنية التحتية السحابية وأتمتة العمليات (DevOps / CI/CD).
 
@@ -70,10 +70,11 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 ## Engineering Pillars
 
 ```mermaid
-graph LR
-    Pillar1["Zero-Crash Reliability<br/>(>99.98% Crash-Free)"] --- Pillar2["Sub-15ms Latency<br/>(On-Device Edge AI)"]
-    Pillar2 --- Pillar3["Liquid Glass UX<br/>(60-120 FPS Fluidity)"]
-    Pillar3 --- Pillar4["Autonomous Tooling<br/>(CI/CD & Telegram Bots)"]
+flowchart TD
+    P1["Zero-Crash Reliability (>99.98% Crash-Free Stability)"]
+    P2["Sub-15ms Latency (On-Device Edge AI Inference)"]
+    P3["Liquid Glass UX (60–120 FPS Fluid Micro-Interactions)"]
+    P4["Autonomous Infrastructure (CI/CD Pipelines & ChatOps QA)"]
 ```
 
 1. **Zero-Crash Reliability & Defensive Core**: Strict offline-first caching, atomic SQLite WAL transactions, and resilient exception barriers yielding >99.98% session stability.
@@ -85,13 +86,30 @@ graph LR
 
 ## Flagship Production Systems
 
-| System | Role & Domain | Key Architecture & Tech | Verified Impact |
-|---|---|---|---|
-| **[Kiddy Zone Town](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)** | Flagship Educational Gaming Suite | **Flutter**, Flame, Naskh Bézier Spline Math, SoLoud Audio, GitHub Actions CI | Live on Google Play Store with multi-hub educational modules |
-| **راخص (Rakhes)** | Mobile Price Intelligence Engine | **React Native / Expo**, Liquid Glass Design System, Sub-15ms Parser | Real-time Saudi multi-store comparison (Amazon SA vs. Noon) |
-| **حسابي (Hisabi)** | Bilingual Edge-AI Fintech | **React Native**, PyTorch ExecuTorch OCR Viewfinder, Encrypted SQLite | Sub-15ms on-device receipt scanning with zero cloud egress |
-| **PulseGuard 2.0** | Real-Time Server Telemetry WebApp | **Telegram Mini App (TMA)**, HMAC-SHA256 Auth, SQLite Ring Buffer | Ultra-lightweight host telemetry daemon (<0.2% CPU overhead) |
-| **Telegram AI Issue Fleet** | ChatOps QA & GitHub Automation | **Python 3.12**, Python-Telegram-Bot, GitHub CLI (`gh`), Media Group Debouncing | Instant screenshot QA triage and native GitHub Sub-Issue ingestion |
+### 1. [Kiddy Zone Town (كيدي زون)](https://play.google.com/store/apps/details?id=com.sayasky.kiddyzonetown&hl=ar)
+- **Role & Domain**: Flagship Educational Gaming Suite (Published on Google Play)
+- **Key Architecture**: Flutter, Flame Game Engine, Naskh Bézier Spline Math, SoLoud Audio Engine, GitHub Actions CI/CD
+- **Verified Impact**: 5 multi-hub educational game modes, sub-pixel letter tracing accuracy, zero audio desync, and automated parallel cloud builds.
+
+### 2. راخص (Rakhes)
+- **Role & Domain**: Mobile Price Intelligence & Savings Engine
+- **Key Architecture**: React Native / Expo, Liquid Glass Design System, Sub-15ms Multi-Store Parser
+- **Verified Impact**: Real-time Saudi e-commerce price comparisons (Amazon SA vs. Noon) with instant savings calculators.
+
+### 3. حسابي (Hisabi)
+- **Role & Domain**: Bilingual Edge-AI Fintech & Receipt Intelligence
+- **Key Architecture**: React Native, PyTorch ExecuTorch OCR Viewfinder, Encrypted SQLite WAL
+- **Verified Impact**: Sub-15ms on-device receipt scanning and automated VAT calculations with 100% offline privacy and zero cloud egress.
+
+### 4. PulseGuard 2.0
+- **Role & Domain**: Real-Time Server Telemetry & Health WebApp
+- **Key Architecture**: Telegram Mini App (TMA), Cryptographic HMAC-SHA256 Auth, SQLite 24h Ring Buffer
+- **Verified Impact**: Ultra-lightweight host telemetry daemon (<0.2% CPU overhead) delivering instant resource monitoring and push alerts.
+
+### 5. Telegram AI Issue Fleet
+- **Role & Domain**: ChatOps QA, Triage & GitHub Automation Hub
+- **Key Architecture**: Python 3.12, Python-Telegram-Bot, GitHub CLI (`gh`), Media Group Debouncing
+- **Verified Impact**: Instant mobile screenshot QA triage and native GitHub Sub-Issue creation directly from Telegram chat.
 
 ---
 
@@ -137,7 +155,7 @@ graph LR
 
 <div align="center">
 
-![Sharaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brosfeer&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Sharafaldain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brosfeer&show_icons=true&theme=radical&count_private=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brosfeer&layout=compact&theme=radical&hide_border=true)
 
 </div>
@@ -154,5 +172,5 @@ graph LR
 ---
 
 <div align="center">
-  <sub>Built with engineering precision & architectural clarity by <b>Sharaf (@Brosfeer)</b>.</sub>
+  Built with engineering precision & architectural clarity by <b>Sharafaldain (@Brosfeer)</b>.
 </div>
