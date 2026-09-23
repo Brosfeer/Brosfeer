@@ -25,7 +25,10 @@ I am **Sharaf (@Brosfeer)**, Principal Software & Systems Architect and founder 
 
 I engineer high-performance mobile applications and digital systems, pairing **Clean Architecture** with on-device intelligence and business growth telemetry. My production stack spans **Flutter** and **React Native / Expo**, on-device edge AI, and autonomous cloud infrastructure.
 
-**Production Engineering & Growth Stack:**
+**Engineering Methodology, Security & Growth Stack:**
+- **Architectural Discipline (Think Before Code)**: Planning systems, analyzing edge cases, and designing data pipelines before implementation to eliminate rework and ensure right-first-time delivery.
+- **Cross-Functional Team Collaboration**: Working seamlessly with product managers, UI/UX designers, and backend teams through clear documentation, structured PR reviews, and technical mentorship.
+- **Universal API & Services Integration**: Rapidly integrating complex third-party APIs (Payments, Maps, WebSockets, REST/GraphQL, custom native SDKs) with robust type safety, error boundaries, and retry policies.
 - **Security & Anti-Abuse**: Cryptographic client attestation via Firebase App Check, API rate limiting, and least-privilege permission auditing for rapid store compliance.
 - **Offline-First Resilience**: Fault-tolerant caching via TanStack Query and local SQLite WAL persistence for zero-downtime continuity during backend disruptions.
 - **Behavioral Analytics & Recommendations**: Telemetry instrumentation (catalog browsing, cart hesitation, user affinity) powering personalization engines and AOV conversion.
@@ -46,7 +49,10 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 
 أقود تطوير وهندسة تطبيقات الجوال والأنظمة الرقمية عالية الأداء، بالاعتماد على المعمارية النظيفة (Clean Architecture)، تقنيات الذكاء الاصطناعي المدمج، وهندسة نمو المنتجات. تمتد خبرتي العملية عبر تطوير تطبيقات Flutter و React Native / Expo، نماذج الذكاء الاصطناعي على الأجهزة الطرفية (On-Device Edge AI)، والبنية التحتية السحابية وأتمتة العمليات (DevOps / CI/CD).
 
-**البنية التحتية، الأمان، وإدارة دورة حياة التطبيقات:**
+**المنهجية الهندسية، الأمان، وإدارة دورة حياة التطبيقات:**
+- **التخطيط المعماري المسبق (Think Before Code)**: دراسة بنية النظام، تحليل حالات الاستخدام المعقدة (Edge Cases)، واختيار الحلول الأنسب قبل كتابة الكود لضمان التنفيذ الصحيح من المرة الأولى وتجنب إعادة العمل.
+- **التعاون وقيادة الفرق التقنية (Team Collaboration)**: العمل بمرونة وانسجام مع مدراء المنتجات، مصممي الواجهات، ومطوري الباك إند، مع مراجعة دقيقة للأكواد (Code Reviews) وتوثيق معماري واضح.
+- **الربط والتكامل مع أي واجهة برمجية (Universal API Integration)**: خبرة واسعة في ربط ودمج بوابات الدفع الإلكتروني، الخرائط، بروتوكولات WebSockets، وواجهات REST و GraphQL وحزم SDK المخصصة، مع معالجة استباقية للأخطاء.
 - **الأمان وحماية واجهات البرمجة (APIs)**: تفعيل التحقق من موثوقية التطبيق عبر Firebase App Check لمنع الطلبات المزيفة وهجمات البوتات، حماية السيرفرات من الضغط المفتعل (Rate Limiting)، وتطبيق مبدأ الحد الأدنى من الصلاحيات (Least Privilege) لتسريع القبول في المتاجر.
 - **تطبيقات تعمل بلا إنترنت واستمرارية الخدمة (Offline-First)**: تصميم التطبيق ليعمل بسلاسة حتى عند تعطل السيرفرات أو ضعف الشبكة، عبر التخزين المؤقت الذكي (TanStack Query) وقواعد بيانات SQLite WAL المحلية، لضمان استمرار تجربة المستخدم دون توقف أو فقدان للبيانات.
 - **تحليلات سلوك المستخدم ومحركات التوصية**: تتبع مسار تفاعل المستخدمين (الأقسام الأكثر تصفحاً، والمنتجات المفضلة، وسلات الشراء) لتغذية محركات التوصية الذكية ورفع معدلات إتمام الشراء (Conversion Rate) ومتوسط قيمة السلة (AOV).
