@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Executive Summary
 
-I am a **Principal Software Architect and Systems Engineer** with extensive experience across **cross-platform mobile engineering (Flutter & React Native / Expo)**, **embedded edge AI**, **high-concurrency telemetry daemons**, and **growth-driven mobile infrastructure**. As the founder and lead architect of **SayaSky Studio**, I design resilient end-to-end architectures—from mathematical geometry modeling and GPU shader pipelines to hardened production growth stacks: **Firebase Suite (Auth, Crashlytics)**, **advanced telemetry & attribution (Google Analytics, AppsFlyer ROAS)**, **deferred deep linking**, and **instant zero-downtime deployments via Expo EAS Over-The-Air (OTA) updates**.
+I am a **Principal Software Architect and Systems Engineer** with extensive experience across **cross-platform mobile engineering (Flutter & React Native / Expo)**, **embedded edge AI**, **high-concurrency telemetry daemons**, and **enterprise mobile infrastructure**. As the founder and lead architect of **SayaSky Studio**, I design resilient end-to-end architectures—from mathematical geometry modeling and GPU shaders to hardened production systems: **Firebase Suite (Auth, Crashlytics, App Check anti-abuse)**, **offline-first fault tolerance (TanStack Query & SQLite WAL)**, **behavioral analytics & conversion tracking (Google Analytics, AppsFlyer ROAS, recommendation signals)**, **deferred deep linking**, and **instant zero-downtime CI/CD via Expo EAS Over-The-Air (OTA) updates**.
 
 ---
 
@@ -29,19 +29,20 @@ I am a **Principal Software Architect and Systems Engineer** with extensive expe
 
 أنا **شرف (@Brosfeer)**، مهندس ومعماري برمجيات ونُظم رئيسي (**Principal Software & Systems Architect**) ومؤسس استوديو **SayaSky Studio**.
 
-أقود هندسة وتطوير تطبيقات الجوال المتقدمة والأنظمة الرقمية المتكاملة، جامعاً بين متانة الهندسة البرمجية الصارمة (**Clean Architecture**) ودقة محركات النمو والتحليلات التسويقية. تمتد خبراتي الإنتاجية عبر منظومات **Flutter** و **React Native / Expo**، حلول الذكاء الاصطناعي الطرفي المدمج (**On-Device Edge AI**)، والبنى التحتية السحابية المؤتمتة.
+أقود هندسة وتطوير تطبيقات الجوال المتقدمة والأنظمة الرقمية الشاملة، جامعاً بين متانة الهندسة البرمجية الصارمة (**Clean Architecture**) ودقة محركات النمو والتحليلات التسويقية. تمتد خبراتي الإنتاجية عبر منظومات **Flutter** و **React Native / Expo**، حلول الذكاء الاصطناعي الطرفي المدمج (**On-Device Edge AI**)، والبنى التحتية السحابية المؤتمتة.
 
-أمتلك خبرة عملية راسخة في إدارة البنية التحتية التشغيلية وهندسة دورة حياة التطبيقات بعد الإطلاق (**App Lifecycle & Growth Stack**):
-- 🔐 **منظومة Firebase المتكاملة**: إدارة وتأمين الهويات والتوثيق المتقدم (**Firebase Auth**)، مراقبة الأداء اللحظي، وإدارة استقرار التطبيقات عبر التتبع الجنائي الدقيق للانهيارات والأخطاء بواسطة **Crashlytics**.
-- 📊 **تحليلات النمو والإحالة التسويقية (Attribution & Analytics)**: إعداد وربط منصات التحليل الرائدة (**Google Analytics / GA4**) ومحركات إسناد الحملات الإعلانية ومعدل العائد على الإنفاق الإعلاني (**AppsFlyer ROAS**) لفهم وتوجيه سلوك المستخدم بدقة.
-- 🔗 **مسارات التحويل والروابط العميقة (Deep Linking)**: بناء وهندسة الروابط الشاملة الذكية (**Universal Links & Deferred Deep Links**) لضمان تجارب انتقال سلسة ترفع معدلات التفاعل وإعادة الاستقطاب (*User Retention*).
+أمتلك خبرة عملية راسخة في إدارة البنية التحتية التشغيلية، أمان التطبيقات، وهندسة دورة حياة المنتج بعد الإطلاق (**App Lifecycle, Security & Growth Stack**):
+- 🛡️ **الأمان والتحصين ضد الاحتيال (Security & Anti-Abuse)**: تفعيل التوثيق الرقمي المتقدم عبر **Firebase App Check** ورموز التحقق المشفرة لمنع استنزاف واجهات الـ API وحظر البوتات، ضبط معدلات الطلب (**Rate Limiting**)، وتجريد التطبيق من الصلاحيات غير الضرورية لضمان أمان المستخدم وسرعة قبول المتاجر.
+- ⚡ **استمرارية الأعمال ومقاومة انقطاع الخوادم (Offline-First Resilience)**: بناء آليات استرداد ذكية تدمج بين **TanStack Query** والتخزين المحلي فائق السرعة **SQLite WAL**؛ لضمان استمرار التطبيق في العمل بسلاسة مطلقة حتى في حال تعطل الخوادم أو انقطاع الاتصال دون فقدان بيانات المستخدم.
+- 📊 **تحليلات السلوك ومحركات التوصية (Behavioral Analytics & Recommendations)**: تتبع ذكي دقيق لسلوك المستخدمين، المنتجات الأكثر تصفحاً، ومسارات الشراء لربطها بمحركات التوصية وتحسين معدلات التحويل (**Conversion Rate**) ومتوسط قيمة الطلب (**AOV**).
+- 📈 **الإسناد التسويقي والروابط الذكية (Attribution & Deep Linking)**: إعداد وربط منصات التحليل الرائدة (**Google Analytics / GA4**) ومحركات إسناد الحملات الإعلانية ومعدل العائد على الإنفاق الإعلاني (**AppsFlyer ROAS**)، وهندسة الروابط الشاملة الذكية (**Universal Links & Deferred Deep Links**).
 - 🚀 **التحديثات الهوائية الفورية (OTA Delivery)**: اعتماد وتطبيق استراتيجيات النشر والتحديث السحابي عبر الهواء (**Expo EAS Over-The-Air Updates**) لدفع الميزات العاجلة ومعالجة الثغرات لحظياً دون انتظار فترات مراجعة المتاجر.
 
-ألتزم دائماً بمبادئي الهندسية الأربعة:
-- 🛡️ **استقرار تشغيلي قياسي (Zero-Crash Reliability)** بنسبة ثبات تتجاوز **99.98%**.
-- ⚡ **معالجة واستجابة فائقة السرعة** بزمن تأخير يقل عن **15ms** ومعدل إطارات سينمائي (**60-120 FPS**).
-- 🎨 **واجهات مستخدم زجاجية عصرية (Liquid Glass)** تراعي التناغم اللوني والطباعة العربية الأصيلة (**RTL**).
-- 🤖 **أتمتة كاملة (Autonomous DevOps)** لخطوط الاختبار، النشر، وروبوتات الدعم عبر تيليجرام.
+ما يميز عملي كمعماري برمجيات وشريك تقني (Value & ROI Driven):
+- 💼 **حماية الميزانيات التسويقية وتعظيم العائد (ROAS & Funnel Engineering)**: لا أكتفي بكتابة الكود، بل أهندس منظومة الروابط العميقة والتحليلات لضمان تحويل زيارات الحملات الإعلانية إلى مستخدمين دائمين ومبيعات فعلية دون هدر تسويقي.
+- ⚡ **مرونة تجارية وإنقاذ لحظي (Zero-Downtime EAS OTA)**: إمكانية إطلاق الميزات العاجلة ومعالجة أي ثغرة تشغيلية فوراً عبر الهواء في دقائق، دون انتظار فترات مراجعة المتاجر، مما يحمي سمعة علامتك التجارية وعوائد حملاتك الموسمية.
+- 💰 **خفض تكاليف التشغيل السحابية (Edge AI Cost Optimization)**: توظيف الذكاء الاصطناعي والمعالجة الفورية محلياً على هاتف المستخدم (<15ms)، مما يُقلص تكاليف الخوادم السحابية بنسب هائلة ويمنح المستخدمين خصوصية وأماناً مطلقين.
+- 🎯 **استقلالية تامة وملكية شاملة للمنتج (Full Product Ownership)**: استلام متطلبات العمل الغامضة وتحويلها إلى منتجات حية قابلة للتوسع المليوني دون الحاجة لإشراف دقيق أو إعادة بناء مستقبلية (Zero Technical Debt).
 
 ---
 
@@ -100,9 +101,11 @@ graph LR
 
 ### Mobile Infrastructure & Growth Stack
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![App Check](https://img.shields.io/badge/App_Check_Tokens-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Expo EAS OTA](https://img.shields.io/badge/Expo_EAS_OTA-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Crashlytics](https://img.shields.io/badge/Crashlytics-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![AppsFlyer](https://img.shields.io/badge/AppsFlyer_Attribution-00C9FF?style=for-the-badge&logo=googlemarketingplatform&logoColor=white)
 
 </div>
