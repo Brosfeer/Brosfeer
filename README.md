@@ -31,13 +31,13 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 - **System & API Integration**: Seamless integration of complex backend APIs, cloud services (REST, GraphQL, WebSockets), and third-party native SDKs with robust type safety, error boundaries, and resilient retry policies.
 - **Security & Anti-Abuse**: Cryptographic client attestation via Firebase App Check, API rate limiting, and least-privilege permission auditing for rapid store compliance.
 - **Offline-First Resilience**: Fault-tolerant caching via TanStack Query and local SQLite WAL persistence for zero-downtime continuity during backend disruptions.
-- **Behavioral Analytics & Recommendations**: Telemetry instrumentation (catalog browsing, cart hesitation, user affinity) powering personalization engines and AOV conversion.
-- **Attribution & Deep Linking**: Telemetry integration (Google Analytics GA4, AppsFlyer ROAS) paired with Universal & Deferred Deep Linking for seamless campaign acquisition.
+- **Behavioral Analytics & Personalization**: Telemetry instrumentation (funnel progression, engagement patterns, user interactions) powering personalized experiences and retention.
+- **Attribution & Deep Linking**: Telemetry integration (Google Analytics GA4, attribution platforms) paired with Universal & Deferred Deep Linking for seamless acquisition and user onboarding.
 - **Zero-Downtime Delivery**: Instant over-the-air updates via Expo EAS OTA to deploy urgent features and emergency triage without store review latency.
 
 **Architectural Value & Delivery:**
-- **ROAS & Acquisition Protection**: Aligning deep linking with marketing attribution so paid traffic routes directly to target purchase screens without drop-offs.
-- **Commercial Agility**: Zero-downtime over-the-air releases deployed in minutes, preserving revenue and operational continuity during peak campaigns.
+- **User Acquisition & Funnel Protection**: Aligning deep linking with attribution telemetry so incoming traffic routes directly to target app workflows without drop-offs.
+- **Commercial Agility**: Zero-downtime over-the-air releases deployed in minutes, preserving operational continuity and user retention during peak traffic.
 - **Edge AI Cost Efficiency**: Sub-15ms on-device inference eliminating recurring cloud compute bills while ensuring complete user privacy.
 - **Full Ownership & Scalability**: Taking ambiguous product requirements to production-grade, million-user systems without technical debt.
 
@@ -55,13 +55,13 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 - **تكامل الأنظمة وربط الـ APIs (System & API Integration)**: خبرة عميقة في ربط وتكامل مختلف الـ APIs والخدمات السحابية (REST, GraphQL, WebSockets) وحزم الـ SDKs المخصصة، مع بناء طبقات حماية ومعالجة متقدمة للأخطاء (Error Boundaries & Retries).
 - **أمان التطبيقات وحماية الـ APIs (Security & Anti-Abuse)**: تفعيل التحقق من موثوقية التطبيق عبر Firebase App Check لمنع الطلبات المزيفة وهجمات البوتات، حماية السيرفرات من الضغط المفتعل (Rate Limiting)، وتطبيق مبدأ الحد الأدنى من الصلاحيات (Least Privilege) لتسريع القبول في المتاجر.
 - **تطبيقات تعمل بلا إنترنت واستمرارية الخدمة (Offline-First)**: تصميم التطبيق ليعمل بسلاسة حتى عند تعطل السيرفرات أو ضعف الشبكة، عبر التخزين المؤقت الذكي (TanStack Query) وقواعد بيانات SQLite WAL المحلية، لضمان استمرار تجربة المستخدم دون توقف أو فقدان للبيانات.
-- **تحليلات سلوك المستخدم ومحركات التوصية**: تتبع مسار تفاعل المستخدمين (الأقسام الأكثر تصفحاً، والمنتجات المفضلة، وسلات الشراء) لتغذية محركات التوصية الذكية ورفع معدلات إتمام الشراء (Conversion Rate) ومتوسط قيمة السلة (AOV).
-- **تتبع الحملات التسويقية والروابط الذكية (Attribution & Deep Links)**: ربط منصات التحليل (Google Analytics و AppsFlyer) وهندسة الروابط الذكية (Universal & Deep Links) لتوجيه المستخدمين مباشرة من الإعلانات الخارجية إلى صفحات المنتجات المطلوبة.
+- **تحليلات سلوك المستخدم وتخصيص التجربة (User Analytics & Personalization)**: تتبع مسارات تفاعل المستخدمين وأنماط الاستخدام داخل التطبيق، لتغذية محركات التخصيص ورفع معدلات التفاعل والإكمال (Engagement & Completion Rates).
+- **تتبع الحملات والروابط الذكية (Attribution & Deep Links)**: ربط منصات التحليل وهندسة الروابط الذكية (Universal & Deep Links) لتوجيه المستخدمين مباشرة من القنوات الخارجية إلى الشاشات والخدمات المستهدفة داخل التطبيق بانسيابية تامة.
 - **النشر الفوري عبر الهواء (Over-The-Air Updates)**: إطلاق الإصلاحات العاجلة والميزات الجديدة لحظياً عبر Expo EAS OTA دون الحاجة لانتظار دورات المراجعة في App Store و Google Play.
 
 **القيمة الهندسية وأثر الأعمال (Business & ROI Impact):**
-- **تعظيم العائد من الإنفاق الإعلاني (ROAS)**: هندسة رحلة المستخدم داخل التطبيق لمنع خروج الزوار قبل الشراء، وضمان وصول زوار الحملات الإعلانية إلى شاشة الدفع بأقل عدد من النقرات.
-- **سرعة الاستجابة التشغيلية وتفادي التوقف**: إمكانية إطلاق التحديثات ومعالجة أي خطأ طارئ أثناء الحملات التسويقية الكبرى في دقائق وبشكل غير ملحوظ للمستخدم (Zero Downtime).
+- **تحسين مسارات الاستخدام وتقليل نسبة الارتداد (Funnel Optimization)**: هندسة رحلة المستخدم داخل التطبيق لتقليل خطوات الوصول إلى الهدف الأساسي، ورفع كفاءة التحويل من الزيارات الخارجية بانسيابية وسرعة.
+- **سرعة الاستجابة التشغيلية وتفادي التوقف**: إمكانية إطلاق التحديثات ومعالجة أي خطأ طارئ أثناء فترات الذروة في دقائق وبشكل غير ملحوظ للمستخدم (Zero Downtime).
 - **تقليل تكاليف الخوادم بالذكاء الاصطناعي المحلي (Edge AI)**: تشغيل النماذج ومعالجة البيانات على هاتف المستخدم (<15ms)، مما يوفر تكاليف السيرفرات السحابية ويضمن خصوصية كاملة لبيانات العملاء.
 - **إدارة وتطوير شامل للمنتج (End-to-End Ownership)**: استلام أفكار ومتطلبات المشروع وتحويلها إلى تطبيقات إنتاجية جاهزة للتوسع المليوني، مع بناء كود نظيف يمنع الأخطاء الهيكلية ويغني عن أي إعادة بناء مستقبلية.
 
