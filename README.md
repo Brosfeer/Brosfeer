@@ -143,8 +143,9 @@ flowchart TD
 
 <div align="center">
 
-![Sharafaldain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brosfeer&show_icons=true&theme=radical&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brosfeer&layout=compact&theme=radical&hide_border=true)
+![Sharafaldain's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Brosfeer&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Brosfeer&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Brosfeer&theme=radical&hide_border=true)
 
 </div>
 
