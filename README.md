@@ -79,8 +79,8 @@ flowchart TD
 - **Key Architecture**: Flutter, Flame Game Engine, Naskh Bézier Spline Math, SoLoud Audio Engine, GitHub Actions CI/CD
 - **Verified Impact**: 5 multi-hub educational game modes, sub-pixel letter tracing accuracy, zero audio desync, and automated parallel cloud builds.
 
-### 2. راخص (Rakhes)
-- **Role & Domain**: Mobile Price Intelligence & Savings Engine
+### 2. [راخص (Rakhys)](https://apps.apple.com/sa/app/rakhys-ksa-electronics-deals/id6587583728)
+- **Role & Domain**: Mobile Price Intelligence & Savings Engine ([App Store](https://apps.apple.com/sa/app/rakhys-ksa-electronics-deals/id6587583728) • [Google Play](https://play.google.com/store/apps/details?id=com.nexumind.arkhass))
 - **Key Architecture**: React Native / Expo, Liquid Glass Design System, Sub-15ms Multi-Store Parser
 - **Verified Impact**: Real-time Saudi e-commerce price comparisons (Amazon SA vs. Noon) with instant savings calculators.
 
