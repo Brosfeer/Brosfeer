@@ -13,7 +13,7 @@
 
 ---
 
-> *"Architecting mission-critical, ultra-low latency mobile experiences, autonomous cloud pipelines, and edge-native systems with engineering discipline and Dieter Rams simplicity."*
+> *"Architecting mission-critical, ultra-low latency mobile experiences, autonomous cloud pipelines, and edge-native systems with engineering discipline and Dieter Rams' 'Less, but better' philosophy."*
 
 </div>
 
