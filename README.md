@@ -13,7 +13,9 @@
 
 ---
 
-> *"Architecting mission-critical, ultra-low latency mobile experiences, autonomous cloud pipelines, and edge-native systems with engineering discipline and Dieter Rams' 'Less, but better' philosophy."*
+> *"Architecting mission-critical, ultra-low latency mobile experiences, autonomous cloud pipelines, and edge-native systems with engineering discipline, calm craftsmanship, and Dieter Rams' 'Less, but better' philosophy."*
+>
+> *«التميز الهندسي الحقيقي ينبع من صفاء الذهن وراحة البال؛ لا حاجة للحلول المتسرعة والترقيعية. كل فكرة تلتمع في الذهن تستحق أن تُبنى بروقان وهدوء وعمق معماري متقن لتكتمل على أصولها.»*
 
 </div>
 
@@ -26,6 +28,7 @@ I am **Sharafaldain (@Brosfeer)**, Principal Software & Systems Architect and fo
 I engineer high-performance mobile applications and digital systems, pairing **Clean Architecture** with on-device intelligence and business growth telemetry. My production stack spans **Flutter** and **React Native / Expo**, on-device edge AI, and autonomous cloud infrastructure.
 
 **Engineering Methodology, Security & Production Stack:**
+- **Mindful Engineering & Deliberate Pacing (Peace Over Haste)**: True architectural excellence rejects rushed, reactionary hacks. When an idea comes to mind, it is approached with calm focus, deep incubation, and deliberate craftsmanship—ensuring sustainable, right-first-time execution without technical debt or cognitive burnout.
 - **Architectural Discipline (Think Before Code)**: Planning systems, analyzing edge cases, and designing data pipelines before implementation to eliminate rework and ensure right-first-time delivery.
 - **Cross-Functional Team Collaboration**: Working seamlessly with product managers, UI/UX designers, and backend teams through clear documentation, structured PR reviews, and technical mentorship.
 - **System & API Integration**: Seamless integration of complex backend APIs, cloud services (REST, GraphQL, WebSockets), and third-party native SDKs with robust type safety, error boundaries, and resilient retry policies.
@@ -44,6 +47,7 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 أقود تطوير وهندسة تطبيقات الجوال والأنظمة الرقمية عالية الأداء، بالاعتماد على المعمارية النظيفة (Clean Architecture)، تقنيات الذكاء الاصطناعي المدمج، وهندسة نمو المنتجات. تمتد خبرتي العملية عبر تطوير تطبيقات Flutter و React Native / Expo، نماذج الذكاء الاصطناعي على الأجهزة الطرفية (On-Device Edge AI)، والبنية التحتية السحابية وأتمتة العمليات (DevOps / CI/CD).
 
 **المنهجية الهندسية، الأمان، وإدارة دورة حياة التطبيقات:**
+- **الهدوء المعماري والصفاء الذهني (Peace Over Haste)**: الإيمان الراسخ بأن أفضل الحلول لا تأتي بالتسرع أو الترقيع المؤقت؛ بل بالروقان وصفاء الذهن. كل فكرة تلتمع في الذهن تُعطى مساحتها الكافية من التفكير المعماري المتأني والتنفيذ المتقن والمستدام لتكتمل بأعلى معايير الجودة دون استعجال.
 - **التخطيط المعماري المسبق (Think Before Code)**: دراسة بنية النظام، تحليل حالات الاستخدام المعقدة (Edge Cases)، واختيار الحلول الأنسب قبل كتابة الكود لضمان التنفيذ الصحيح من المرة الأولى وتجنب إعادة العمل.
 - **التعاون وقيادة الفرق التقنية (Team Collaboration)**: العمل بمرونة وانسجام مع مدراء المنتجات، مصممي الواجهات، ومطوري الباك إند، مع مراجعة دقيقة للأكواد (Code Reviews) وتوثيق معماري واضح.
 - **تكامل الأنظمة وربط الـ APIs (System & API Integration)**: خبرة عميقة في ربط وتكامل مختلف الـ APIs والخدمات السحابية (REST, GraphQL, WebSockets) وحزم الـ SDKs المخصصة، مع بناء طبقات حماية ومعالجة متقدمة للأخطاء (Error Boundaries & Retries).
@@ -63,12 +67,14 @@ flowchart TD
     P2["Sub-15ms Latency (On-Device Edge AI Inference)"]
     P3["Liquid Glass UX (60–120 FPS Fluid Micro-Interactions)"]
     P4["Autonomous Infrastructure (CI/CD Pipelines & ChatOps QA)"]
+    P5["Mindful Architecture & Peace (Deliberate Quality Over Haste)"]
 ```
 
 1. **Zero-Crash Reliability & Defensive Core**: Strict offline-first caching, atomic SQLite WAL transactions, and resilient exception barriers yielding >99.98% session stability.
 2. **Deterministic High Performance**: Sub-15ms on-device AI inference, 60/120 FPS hardware-accelerated GPU pipelines, and microsecond-latency IPC.
 3. **World-Class Human-Centric UI/UX**: Adherence to the 60-30-10 color balance rule, WCAG AAA accessibility, true RTL typography, and glassmorphic micro-interactions.
 4. **Autonomous Infrastructure**: Automated testing gates, cloud release builders, headless deploy daemons, and chat-ops QA automation.
+5. **Mindful Architecture & Peaceful Craftsmanship**: Rejecting hasty temporary fixes. When an idea strikes, it is developed with deliberate calm, deep focus, and rigorous engineering so it stands resilient for years to come.
 
 ---
 
