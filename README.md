@@ -61,15 +61,6 @@ I engineer high-performance mobile applications and digital systems, pairing **C
 
 ## Engineering Pillars
 
-```mermaid
-flowchart TD
-    P1["Zero-Crash Reliability (>99.98% Crash-Free Stability)"]
-    P2["Sub-15ms Latency (On-Device Edge AI Inference)"]
-    P3["Liquid Glass UX (60–120 FPS Fluid Micro-Interactions)"]
-    P4["Autonomous Infrastructure (CI/CD Pipelines & ChatOps QA)"]
-    P5["Mindful Architecture & Peace (Deliberate Quality Over Haste)"]
-```
-
 1. **Zero-Crash Reliability & Defensive Core**: Strict offline-first caching, atomic SQLite WAL transactions, and resilient exception barriers yielding >99.98% session stability.
 2. **Deterministic High Performance**: Sub-15ms on-device AI inference, 60/120 FPS hardware-accelerated GPU pipelines, and microsecond-latency IPC.
 3. **World-Class Human-Centric UI/UX**: Adherence to the 60-30-10 color balance rule, WCAG AAA accessibility, true RTL typography, and glassmorphic micro-interactions.
